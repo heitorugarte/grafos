@@ -30,7 +30,7 @@ int main(){
 		int origem = atoi(pares[0]);
 		int destino = atoi(pares[1]);
 		printf("Adjacencia entre: %d e %d\n", origem, destino);
-		// add adjacencia (int 1, int 2)
+		// add adjacencia (origem, destino)
 	}
 	fclose(arquivo);
 	
